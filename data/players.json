@@ -1,0 +1,69 @@
+{
+    "players": [
+        {
+            "id": 109191123,
+            "surname": "Croker",
+            "full_name": "Jarrod Croker",
+            "short_name": "J. Croker",
+            "other_names": "Jarrod",
+            "jumper_number": 3,
+            "position_code": "CEN1",
+            "position_order": 3,
+            "position_description": "Centre",
+            "is_captain": true,
+            "is_interchange": false
+        },
+        {
+            "id": 109509,
+            "surname": "Rapana",
+            "full_name": "Jordan Rapana",
+            "short_name": "J. Rapana",
+            "other_names": "Jordan",
+            "jumper_number": 1,
+            "position_code": "FBCK",
+            "position_order": 1,
+            "position_description": "Full Back",
+            "is_captain": false,
+            "is_interchange": false
+        },
+    	{
+            "id": 111285,
+            "surname": "Waqa",
+            "full_name": "Sisa Waqa",
+            "short_name": "S. Waqa",
+            "other_names": "Sisa",
+            "jumper_number": 2,
+            "position_code": "WING1",
+            "position_order": 2,
+            "position_description": "Wing",
+            "is_captain": false,
+            "is_interchange": false
+        },
+    	{
+            "id": 109861,
+            "surname": "Croker",
+            "full_name": "Jarrod Croker",
+            "short_name": "J. Croker",
+            "other_names": "Jarrod",
+            "jumper_number": 3,
+            "position_code": "CEN1",
+            "position_order": 3,
+            "position_description": "Centre",
+            "is_captain": true,
+            "is_interchange": false
+        },
+    	{
+            "id": 112814,
+            "surname": "Lee",
+            "full_name": "Edrick Lee",
+            "short_name": "E. Lee",
+            "other_names": "Edrick",
+            "jumper_number": 5,
+            "position_code": "CEN2",
+            "position_order": 4,
+            "position_description": "Centre",
+            "is_captain": false,
+            "is_interchange": false
+        }
+    ]
+}
