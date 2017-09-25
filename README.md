@@ -10,10 +10,8 @@ Please also be aware that Chrome can't deal with local json files, so task 2 won
 
 ### Rules
 
-The rules are simple
-
 * Try to limit the use of jQuery to fetching data in the [json-module](#json-module) task. For everything else, please write your code in functional/prototype JavaScript.
-* Do NOT alter the `style.css` file in the `css` directory any way
+* Do NOT alter the `style.css` file in the __css__ directory any way
 * Do NOT alter the raw HTML markup in this document, other than the use of JavaScript and CSS.
 * Do place your code in the provided `script.js` and `style.css` files in the __root__ of this project.
 * Transpilation is allowed. If you transpile, please include your source files. Don't waste too much time building bundling pipelines.
@@ -41,15 +39,8 @@ There are 2 parts to this test:
 #### JSON Module
 
 1.                                 Fetch the contents of the JSON files in this zip called [players.json](data/players.json) and [stats.json](data/stats.json)
-2. Parse the JSON files using a table like this,
-                                    using the short_name, matches, and tries fields:![example2](images/example2.jpg) Border color in the table is #eee.
+2. Parse the JSON files using a table like this, using the `short_name`, `matches`, and `tries` fields:
 
-## Test modules below this point
+  ![example2](images/example2.jpg)
 
-### Image Hover Module
-
-![Image Thumbnail](images/img-thumbnail.jpg)
-
-This is a description that should show over the image on hover, but never show at any other time.
-
-### JSON Module
+  Border color in the table is #eee.
