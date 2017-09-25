@@ -29,11 +29,11 @@ There are 2 parts to this test:
 
 1. On page load, it should look like:
 
-![example1.1.jpg](images/example1.1.jpg)
+  ![example1.1.jpg](images/example1.1.JPG)
 
 2. When the user hovers over the image, the "hover-text" div should display with white text on a blue transparent background, over the image - like this:
 
-  ![example1.2.jpg](images/example1.2.jpg)
+  ![example1.2.jpg](images/example1.2.JPG)
 3. When the mouse leaves the image hover-text, it should go back to just the image displaying.
 
 #### JSON Module
@@ -41,6 +41,6 @@ There are 2 parts to this test:
 1.                                 Fetch the contents of the JSON files in this zip called [players.json](data/players.json) and [stats.json](data/stats.json)
 2. Parse the JSON files using a table like this, using the `short_name`, `matches`, and `tries` fields:
 
-  ![example2](images/example2.jpg)
+  ![example2](images/example2.JPG)
 
   Border color in the table is #eee.
