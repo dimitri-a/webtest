@@ -29,7 +29,7 @@ There are 2 parts to this test:
 
 1. On page load, it should look like:
 
-  ![example1.1.jpg](images/example1.1.jpg)
+![example1.1.jpg](images/example1.1.jpg)
 
 2. When the user hovers over the image, the "hover-text" div should display with white text on a blue transparent background, over the image - like this:
 
