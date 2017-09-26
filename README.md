@@ -12,7 +12,7 @@ Please also be aware that Chrome can't deal with local json files, so task 2 won
 
 * Try to limit the use of jQuery to fetching data in the [json-module](#json-module) task. For everything else, please write your code in functional/prototype JavaScript.
 * Do NOT alter the `style.css` file in the __css__ directory any way
-* Do NOT alter the raw HTML markup in this document, other than the use of JavaScript and CSS.
+* Do NOT alter the raw HTML markup in `index.html`.
 * Do place your code in the provided `script.js` and `style.css` files in the __root__ of this project.
 * Transpilation is allowed. If you transpile, please include your source files. Don't waste too much time building bundling pipelines.
 * Submit your answer to the repo.
