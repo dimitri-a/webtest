@@ -2,15 +2,15 @@
     "players": [
         {
             "id": 109191123,
-            "surname": "Croker",
-            "full_name": "Jarrod Croker",
-            "short_name": "J. Croker",
-            "other_names": "Jarrod",
-            "jumper_number": 3,
+            "surname": "Farah",
+            "full_name": "Robbie Farah",
+            "short_name": "R. Farah",
+            "other_names": "Robert",
+            "jumper_number": 9,
             "position_code": "CEN1",
-            "position_order": 3,
-            "position_description": "Centre",
-            "is_captain": true,
+            "position_order": 9,
+            "position_description": "Hooker",
+            "is_captain": false,
             "is_interchange": false
         },
         {
