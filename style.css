@@ -28,3 +28,7 @@
 img {
     vertical-align:top;
 }
+
+#mytable,td{
+    border:1px solid blue;
+}
