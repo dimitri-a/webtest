@@ -34,6 +34,14 @@ $(document).ready(function () {
                     }
                     var tbl = $("<table/>").attr("id", "mytable");
                     $(".json-module .module-content").append(tbl);
+
+                    var tr = "<tr>";
+                    var td1 = "<th>Players</th>";
+                    var td2 = "<th>Matches</th>";
+                    var td3 = "<th>Tries</th></tr>";
+
+                    $("#mytable").append(tr + td1 + td2 + td3);
+
                     for (var i = 0; i < items.length; i++) {
                         var tr = "<tr>";
                         var td1 = "<td>" + items[i]["player"] + "</td>";
